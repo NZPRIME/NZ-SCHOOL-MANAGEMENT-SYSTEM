@@ -1,2 +1,1 @@
-A School Management System (SMS) is a software application designed to
-streamline and automate various administrative tasks within a school.
+A School Management System (SMS) using python and sql.
